@@ -12,7 +12,7 @@ function App() {
      <div className="sections">
        <Intro/>
        <About/>
-       <Main/>
+       {/* <Main/> */}
        <Footer/>      
      </div>
     </div>
